@@ -78,6 +78,3 @@ streamlit run main.py
 - Cloud Database Integration
 - Analytics Dashboard
 
-## Author
-
-Meheraj Chintakayala Shaik
